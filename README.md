@@ -1,0 +1,2 @@
+# technicals
+ Techinal indicators
